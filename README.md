@@ -1,6 +1,6 @@
 ### Hi there, I'm Punyabrat - aka [PunyabratSaikia][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://punyabrat.herokuapp.com)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2FPortfolio)](https://punyabrat.herokuapp.com)
 
 ## I'm a pre-final year student pursuing B-Tech in Computer Science !!
 

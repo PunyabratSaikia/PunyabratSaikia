@@ -15,6 +15,13 @@
 
 <br />
 
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.svgporn.com/logos/tensorflow.svg" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.svgporn.com/logos/django.svg" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.svgporn.com/logos/jupyter.svg" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.svgporn.com/logos/python.svg" />]
+
 
 
 

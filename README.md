@@ -1,6 +1,6 @@
 ### Hi there, I'm Punyabrat - aka [PunyabratSaikia][website] 😃 
 
-## I'm a pre-final year student pursuing B-Tech in Computer Science from NIT Silchar!!
+## I'm a final year student pursuing B-Tech in Computer Science from NIT Silchar!!
 
 - 🌱 I’m currently exploring fields of Data Science 🤖 
 - 👯 I’m looking to collaborate with other developers 🤝 

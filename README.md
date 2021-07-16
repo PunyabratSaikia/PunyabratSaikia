@@ -1,4 +1,4 @@
-### Hi there, I'm Punyabrat - aka [PunyabratSaikia][website] 😃 
+### Hi there, I'm [PunyabratSaikia][website] 😃 
 
 ## I'm a final year student pursuing B-Tech in Computer Science from NIT Silchar!!
 

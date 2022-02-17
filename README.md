@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently exploring fields of Data Science 🤖 
 - 👯 I’m looking to collaborate with other developers 🤝 
-- ⚡ Hobbies : I love playing guitar and reading philosophical books 🧠
+- ⚡ Hobbies : I love playing guitar and reading books 🧠
 
 ### Connect with me:
 
